@@ -1,0 +1,1 @@
+# mimo-odoo.sh
