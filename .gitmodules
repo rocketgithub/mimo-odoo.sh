@@ -14,3 +14,7 @@
 	path = fel_megaprint
 	url = git@github.com:rocketgithub/fel_megaprint.git
 	branch = 13.0
+[submodule "fel_infile"]
+	path = fel_infile
+	url = git@github.com:rocketgithub/fel_infile.git
+	branch = 13.0
