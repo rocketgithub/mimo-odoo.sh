@@ -17,3 +17,6 @@
 [submodule "pos_fel"]
 	path = pos_fel
 	url = git@github.com:rocketgithub/pos_fel.git
+[submodule "pos_ticket_cambio"]
+	path = pos_ticket_cambio
+	url = git@github.com:rocketgithub/pos_ticket_cambio.git
