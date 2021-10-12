@@ -27,3 +27,10 @@
 [submodule "mimo"]
 	path = mimo
 	url = git@github.com:rocketgithub/mimo.git
+[submodule "conciliacion_bancaria"]
+	path = conciliacion_bancaria
+	url = git@github.com:rocketgithub/conciliacion_bancaria.git
+	branch = 11.0
+[submodule "fel_ccg"]
+	path = fel_ccg
+	url = git@github.com:rocketgithub/fel_ccg.git
