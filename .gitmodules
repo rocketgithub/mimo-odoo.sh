@@ -27,3 +27,6 @@
 	path = conciliacion_bancaria
 	url = git@github.com:rocketgithub/conciliacion_bancaria.git
 	branch = 13.0
+[submodule "fel_ccg"]
+	path = fel_ccg
+	url = git@github.com:rocketgithub/fel_ccg.git
