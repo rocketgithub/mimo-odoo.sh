@@ -1,6 +1,6 @@
 [submodule "l10n_gt_extra"]
 	path = l10n_gt_extra
-	url = git@github.com:rocketgithub/l10n_gt_extra.git
+	url = https://github.com/rocketgithub/l10n_gt_extra.git
 	branch = 13.0
 [submodule "pos_gt"]
 	path = pos_gt
