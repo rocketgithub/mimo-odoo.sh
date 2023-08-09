@@ -34,3 +34,7 @@
 [submodule "fel_ccg"]
 	path = fel_ccg
 	url = git@github.com:rocketgithub/fel_ccg.git
+[submodule "hr_expense_invoice"]
+	path = hr_expense_invoice
+	url = git@github.com:rocketgithub/hr_expense_invoice.git
+	branch = 16.0
